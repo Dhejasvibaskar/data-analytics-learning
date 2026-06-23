@@ -1,12 +1,12 @@
-# 🧹 Kaggle Data Cleaning
+# Kaggle Data Cleaning
 
 This repository contains my work, notes, exercises, and certification from the Kaggle Data Cleaning course.
 
-## 📖 About
+##  About
 
 Data cleaning is one of the most important steps in the data analytics workflow. This course focused on identifying, fixing, and preparing messy datasets for analysis.
 
-## 🚀 Topics Covered
+##  Topics Covered
 
 ### Missing Values
 
@@ -38,7 +38,7 @@ Data cleaning is one of the most important steps in the data analytics workflow.
 * String cleaning
 * Fuzzy matching using FuzzyWuzzy
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -47,14 +47,14 @@ Data cleaning is one of the most important steps in the data analytics workflow.
 * Seaborn
 * FuzzyWuzzy
 
-## 📂 Repository Contents
+##  Repository Contents
 
 * Course Exercise Notebooks
 * Practice Solutions
 * Course Notes
 * Completion Certificate
 
-## 📜 Certificate
+## Completion Certificate
 
 Successfully completed the Kaggle Data Cleaning course.
 
