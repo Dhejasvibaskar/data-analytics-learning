@@ -10,7 +10,8 @@ This repository documents my journey learning Data Analytics through Kaggle cour
 - Missing Values
 - MultiIndex
 
-📂 Folder: `Pandas`
+📁 Folder: [Pandas](./kaggle_panda_learning)
+
 
 ### Data Cleaning
 - Missing Values
@@ -19,7 +20,7 @@ This repository documents my journey learning Data Analytics through Kaggle cour
 - Character Encodings
 - Fuzzy Matching
 
-📂 Folder: `Data-Cleaning`
+📁 Folder: [Data-Cleaning](./kaggle_data_cleaning)
 
 
 ## Certificates
