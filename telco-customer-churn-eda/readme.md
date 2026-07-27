@@ -1,6 +1,6 @@
 # 📊 Telco Customer Churn Analysis
 
-An end-to-end Exploratory Data Analysis (EDA) and Data Preprocessing project performed on the IBM Telco Customer Churn dataset using Python.
+An end-to-end Exploratory Data Analysis (EDA) and Data Preprocessing project performed on the Kaggle Telco Customer Churn dataset using Python.
 
 This project demonstrates the complete workflow of cleaning, transforming, visualizing, and analysing customer data to uncover factors influencing customer churn.
 
@@ -19,7 +19,7 @@ Customer churn is one of the biggest challenges faced by subscription-based busi
 
 ## 📂 Dataset
 
-**Dataset:** IBM Telco Customer Churn Dataset
+**Dataset:** Kaggle Telco Customer Churn Dataset
 
 The dataset contains customer demographic information, subscription details, billing information, and whether the customer has churned.
 
